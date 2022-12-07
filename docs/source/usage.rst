@@ -32,3 +32,5 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+
+Lumache has its documentation hosted on Read the Docs.
