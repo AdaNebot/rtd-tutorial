@@ -33,4 +33,4 @@ For example:
 ['shells', 'gorgonzola', 'parsley']
 
 
-Lumache has its documentation hosted on Read the Docs.
+Lumache has its documentation hosted on Read the Docs. 
